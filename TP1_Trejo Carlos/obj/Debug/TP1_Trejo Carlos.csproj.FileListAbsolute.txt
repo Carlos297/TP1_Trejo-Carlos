@@ -1,0 +1,8 @@
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\bin\Debug\TP1_Trejo Carlos.exe.config
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\bin\Debug\TP1_Trejo Carlos.exe
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\bin\Debug\TP1_Trejo Carlos.pdb
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\obj\Debug\TP1_Trejo Carlos.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\obj\Debug\TP1_Trejo_Carlos.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\obj\Debug\TP1_Trejo Carlos.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\obj\Debug\TP1_Trejo Carlos.exe
+C:\Users\Carlos\Desktop\Facultad 2020\Programacion III - 2020\TP 1 - Modelo de Dominio\TP 1 Programacion\TP1_Trejo Carlos\TP1_Trejo Carlos\obj\Debug\TP1_Trejo Carlos.pdb
